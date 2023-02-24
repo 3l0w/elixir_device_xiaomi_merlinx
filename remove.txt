@@ -1,0 +1,7 @@
+device/xiaomi
+vendor/xiaomi
+kernel/xiaomi
+hardware/mediatek
+hardware/lineage/compat
+device/mediatek/sepolicy_vndr
+packages/apps/FMRadio
